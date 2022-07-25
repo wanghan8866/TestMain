@@ -1,0 +1,6 @@
+name: TestPlugin
+version: '${project.version}'
+main: com.www.me.bing.wang.plugin.testplugin.TestPluginMain
+api-version: 1.19
+commands:
+  test
